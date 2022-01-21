@@ -1,0 +1,15 @@
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 30%;
+    margin-right: 10px;
+  }
+  
+  td, th {
+    width: 25%;
+  }
